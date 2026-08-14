@@ -148,3 +148,20 @@ From the project root:
 
 ```bash
 python data_pipeline/pipeline.py
+
+## Validation Summary
+
+The completed pipeline successfully produced 100 cleaned book records across 29 categories.
+
+The required fields were stored using the following types:
+
+- `price_gbp`: float
+- `rating`: integer
+- `in_stock`: boolean
+- `price_inr`: float
+
+The SQLite database contains the normalized `categories` and `books` tables connected through a primary-key/foreign-key relationship.
+
+Six SQL queries were executed covering SELECT/WHERE, ORDER BY, LIMIT, DISTINCT, BETWEEN, IN, and JOIN.
+
+The SQL JOIN was independently reproduced using `pd.merge()`, and both results were equivalent.
