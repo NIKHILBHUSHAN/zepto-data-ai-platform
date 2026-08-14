@@ -49,7 +49,7 @@ def scrape_book(book, session, page_url):
     response.raise_for_status()
 
     soup = BeautifulSoup(
-        response.text,
+         response.text,
         "html.parser"
     )
 
