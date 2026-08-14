@@ -1,0 +1,11 @@
+book_id_sql,title_sql,category_name_sql,rating_sql,price_gbp_sql,price_inr_sql,in_stock_sql,book_id_pandas,title_pandas,category_name_pandas,rating_pandas,price_gbp_pandas,price_inr_pandas,in_stock_pandas
+5,Sapiens: A Brief History of Humankind,History,5,54.23,5721.264999999999,1,5,Sapiens: A Brief History of Humankind,History,5,54.23,5721.264999999999,1
+14,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),Sequential Art,5,52.29,5516.595,1,14,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),Sequential Art,5,52.29,5516.595,1
+47,"We Love You, Charlie Freeman",Fiction,5,50.27,5303.485000000001,1,47,"We Love You, Charlie Freeman",Fiction,5,50.27,5303.485000000001,1
+43,Private Paris (Private #10),Fiction,5,47.61,5022.855,1,43,Private Paris (Private #10),Fiction,5,47.61,5022.855,1
+29,Worlds Elsewhere: Journeys Around Shakespeareâs Globe,Nonfiction,5,40.3,4251.65,1,29,Worlds Elsewhere: Journeys Around Shakespeareâs Globe,Nonfiction,5,40.3,4251.65,1
+99,Join,Science Fiction,5,35.67,3763.1850000000004,1,99,Join,Science Fiction,5,35.67,3763.1850000000004,1
+15,Rip it Up and Start Again,Music,5,35.02,3694.61,1,15,Rip it Up and Start Again,Music,5,35.02,3694.61,1
+25,Black Dust,Romance,5,34.53,3642.915,1,25,Black Dust,Romance,5,34.53,3642.915,1
+73,The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution,Spirituality,5,32.24,3401.32,1,73,The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution,Spirituality,5,32.24,3401.32,1
+24,Chase Me (Paris Nights #2),Romance,5,25.27,2665.985,1,24,Chase Me (Paris Nights #2),Romance,5,25.27,2665.985,1
